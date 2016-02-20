@@ -249,6 +249,16 @@ body {
   border-color: #3b759e;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
+#bio-pic{
+  height: 250px;
+  width: 250px;
+}
+
+#logo{
+  border: none;
+  box-shadow: none;
+}
+
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
